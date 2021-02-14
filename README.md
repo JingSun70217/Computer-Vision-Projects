@@ -28,7 +28,7 @@ There are report and code scripts in each project folder. The report contains re
 ## Prerequisites
 
 Python3+  
-> Packages: numpy, scipy, matplotlib,etc. 
+> Packages: numpy, scipy, matplotlib, etc. 
 
 MATLAB
 
